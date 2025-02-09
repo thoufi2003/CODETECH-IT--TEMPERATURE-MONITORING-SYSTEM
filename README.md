@@ -40,3 +40,7 @@ This project is a temperature and humidity monitoring system that uses an LCD di
 . Home Automation – Monitors indoor climate conditions.
 . Greenhouse Monitoring – Ensures optimal temperature for plant growth.
 . Server Room Monitoring – Alerts when temperature crosses safe limits.
+
+**SIMULATION OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/299829f3-f1f5-476a-89e6-45fa63b5f03b)
